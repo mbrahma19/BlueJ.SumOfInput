@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ Created\ by\ iyasuwatts\ on\ 10/17/17.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=int\ summarizer(int)
+numComments=3
